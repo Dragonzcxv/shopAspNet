@@ -26,5 +26,5 @@ C:\Users\it003\Desktop\MyFuckingProjects\shop\shop\obj\Debug\netcoreapp2.2\shop.
 C:\Users\it003\Desktop\MyFuckingProjects\shop\shop\obj\Debug\netcoreapp2.2\shop.csproj.CopyComplete
 C:\Users\it003\Desktop\MyFuckingProjects\shop\shop\obj\Debug\netcoreapp2.2\Razor\Views\Cars\List.cshtml.g.cs
 C:\Users\it003\Desktop\MyFuckingProjects\shop\shop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\it003\Desktop\MyFuckingProjects\shop\shop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ViewImports.cshtml.g.cs
-C:\Users\it003\Desktop\MyFuckingProjects\shop\shop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ViewStart.cshtml.g.cs
+C:\Users\it003\Desktop\MyFuckingProjects\shop\shop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\it003\Desktop\MyFuckingProjects\shop\shop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
