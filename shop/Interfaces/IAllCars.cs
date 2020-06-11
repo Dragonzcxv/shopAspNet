@@ -11,7 +11,7 @@ namespace shop.Interfaces
 
         IEnumerable<Car> Cars { get; }
         
-        IEnumerable<Car> GetFavCars { get; set; }
+        IEnumerable<Car> GetFavCars { get; }
 
         Car getObjectCar (int carId);
 

@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "9/qqGvNmG9rFJmO1EBGHjJhOOz66LmTiWDerRkQSWVgJUiJW5BTvUqnfJyQRX5wg5y2gNwMEHG39JfaEGFwoxQ==",
+  "dgSpecHash": "I5/0nf+yOtU+iL4AM+LDadNNTYuAzeXimxlLdaHdkIxxrnUmzcMRpNBH20pxnRtiVbrUsVBLK4s9SNDht6JAKQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\it003\\Desktop\\MyFuckingProjects\\shop\\shop\\shop.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\it003\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\it003\\.nuget\\packages\\json\\1.0.1\\json.1.0.1.nupkg.sha512",
     "C:\\Users\\it003\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
     "C:\\Users\\it003\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",
     "C:\\Users\\it003\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
@@ -293,6 +295,16 @@
     "C:\\Users\\it003\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"JSON 1.0.1\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v2.2\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "JSON",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    },
     {
       "code": "NU1701",
       "level": "Warning",
