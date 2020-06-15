@@ -66,3 +66,5 @@ D:\MyFuckingProjects\C#\ASP.NET Core\shopAspNet\shop\obj\Debug\netcoreapp2.2\sho
 D:\MyFuckingProjects\C#\ASP.NET Core\shopAspNet\shop\obj\Debug\netcoreapp2.2\shop.csproj.CopyComplete
 D:\MyFuckingProjects\C#\ASP.NET Core\shopAspNet\shop\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\it003\Desktop\MyFuckingProjects\shop\shop\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\it003\Desktop\MyFuckingProjects\shop\shop\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\it003\Desktop\MyFuckingProjects\shop\shop\obj\Debug\netcoreapp2.2\Razor\Views\Order\Complete.cshtml.g.cs
