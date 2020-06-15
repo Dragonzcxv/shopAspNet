@@ -3,7 +3,7 @@
 <div class="container">
     @foreach(var el in Model.Cart.ListShopItems)
     {
-        <div class="alert alert-warning mt-3">
+        <div class="alert alert-warning mt-3"> 
             <b>Автомобиль:</b>@el.Car.Name<br />
             <b>Цена:</b>@el.Car.Price.ToString("c")
         </div>

@@ -12391,23 +12391,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Сергей\\.nuget\\packages\\": {},
-    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\it003\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyFuckingProjects\\C#\\ASP.NET Core\\shopAspNet\\shop\\shop.csproj",
+      "projectUniqueName": "C:\\Users\\it003\\Desktop\\MyFuckingProjects\\shop\\shop\\shop.csproj",
       "projectName": "shop",
-      "projectPath": "D:\\MyFuckingProjects\\C#\\ASP.NET Core\\shopAspNet\\shop\\shop.csproj",
-      "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-      "outputPath": "D:\\MyFuckingProjects\\C#\\ASP.NET Core\\shopAspNet\\shop\\obj\\",
+      "projectPath": "C:\\Users\\it003\\Desktop\\MyFuckingProjects\\shop\\shop\\shop.csproj",
+      "packagesPath": "C:\\Users\\it003\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\it003\\Desktop\\MyFuckingProjects\\shop\\shop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\it003\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -12508,7 +12508,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -12517,7 +12517,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.AspNetCore.App 2.2.0 requires Microsoft.Extensions.Caching.Abstractions (>= 2.2.0 && < 2.3.0) but version Microsoft.Extensions.Caching.Abstractions 3.1.5 was resolved.",
+      "message": "Версия обнаруженного пакета нарушает ограничение зависимости: Microsoft.AspNetCore.App 2.2.0 требуется Microsoft.Extensions.Caching.Abstractions (>= 2.2.0 && < 2.3.0), но в результате разрешения получена версия Microsoft.Extensions.Caching.Abstractions 3.1.5.",
       "libraryId": "Microsoft.Extensions.Caching.Abstractions",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.2"
@@ -12527,7 +12527,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.AspNetCore.App 2.2.0 requires Microsoft.Extensions.Caching.Memory (>= 2.2.0 && < 2.3.0) but version Microsoft.Extensions.Caching.Memory 3.1.5 was resolved.",
+      "message": "Версия обнаруженного пакета нарушает ограничение зависимости: Microsoft.AspNetCore.App 2.2.0 требуется Microsoft.Extensions.Caching.Memory (>= 2.2.0 && < 2.3.0), но в результате разрешения получена версия Microsoft.Extensions.Caching.Memory 3.1.5.",
       "libraryId": "Microsoft.Extensions.Caching.Memory",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.2"
@@ -12537,7 +12537,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.AspNetCore.App 2.2.0 requires Microsoft.Extensions.DependencyInjection.Abstractions (>= 2.2.0 && < 2.3.0) but version Microsoft.Extensions.DependencyInjection.Abstractions 3.1.5 was resolved.",
+      "message": "Версия обнаруженного пакета нарушает ограничение зависимости: Microsoft.AspNetCore.App 2.2.0 требуется Microsoft.Extensions.DependencyInjection.Abstractions (>= 2.2.0 && < 2.3.0), но в результате разрешения получена версия Microsoft.Extensions.DependencyInjection.Abstractions 3.1.5.",
       "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.2"
@@ -12547,7 +12547,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.AspNetCore.App 2.2.0 requires Microsoft.Extensions.Logging.Abstractions (>= 2.2.0 && < 2.3.0) but version Microsoft.Extensions.Logging.Abstractions 3.1.5 was resolved.",
+      "message": "Версия обнаруженного пакета нарушает ограничение зависимости: Microsoft.AspNetCore.App 2.2.0 требуется Microsoft.Extensions.Logging.Abstractions (>= 2.2.0 && < 2.3.0), но в результате разрешения получена версия Microsoft.Extensions.Logging.Abstractions 3.1.5.",
       "libraryId": "Microsoft.Extensions.Logging.Abstractions",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.2"
@@ -12557,7 +12557,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.AspNetCore.App 2.2.0 requires Microsoft.Extensions.Options (>= 2.2.0 && < 2.3.0) but version Microsoft.Extensions.Options 3.1.5 was resolved.",
+      "message": "Версия обнаруженного пакета нарушает ограничение зависимости: Microsoft.AspNetCore.App 2.2.0 требуется Microsoft.Extensions.Options (>= 2.2.0 && < 2.3.0), но в результате разрешения получена версия Microsoft.Extensions.Options 3.1.5.",
       "libraryId": "Microsoft.Extensions.Options",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.2"
@@ -12567,7 +12567,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.AspNetCore.App 2.2.0 requires Microsoft.Extensions.Primitives (>= 2.2.0 && < 2.3.0) but version Microsoft.Extensions.Primitives 3.1.5 was resolved.",
+      "message": "Версия обнаруженного пакета нарушает ограничение зависимости: Microsoft.AspNetCore.App 2.2.0 требуется Microsoft.Extensions.Primitives (>= 2.2.0 && < 2.3.0), но в результате разрешения получена версия Microsoft.Extensions.Primitives 3.1.5.",
       "libraryId": "Microsoft.Extensions.Primitives",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.2"
@@ -12577,7 +12577,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'JSON 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v2.2'. This package may not be fully compatible with your project.",
+      "message": "Пакет \"JSON 1.0.1\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v2.2\". Этот пакет может быть не полностью совместим с вашим проектом.",
       "libraryId": "JSON",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.2"
@@ -12587,7 +12587,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.Mvc 5.2.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v2.2'. This package may not be fully compatible with your project.",
+      "message": "Пакет \"Microsoft.AspNet.Mvc 5.2.7\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v2.2\". Этот пакет может быть не полностью совместим с вашим проектом.",
       "libraryId": "Microsoft.AspNet.Mvc",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.2"
@@ -12597,7 +12597,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.Razor 3.2.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v2.2'. This package may not be fully compatible with your project.",
+      "message": "Пакет \"Microsoft.AspNet.Razor 3.2.7\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v2.2\". Этот пакет может быть не полностью совместим с вашим проектом.",
       "libraryId": "Microsoft.AspNet.Razor",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.2"
@@ -12607,7 +12607,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.WebPages 3.2.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v2.2'. This package may not be fully compatible with your project.",
+      "message": "Пакет \"Microsoft.AspNet.WebPages 3.2.7\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v2.2\". Этот пакет может быть не полностью совместим с вашим проектом.",
       "libraryId": "Microsoft.AspNet.WebPages",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.2"
@@ -12617,7 +12617,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.Web.Infrastructure 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v2.2'. This package may not be fully compatible with your project.",
+      "message": "Пакет \"Microsoft.Web.Infrastructure 1.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v2.2\". Этот пакет может быть не полностью совместим с вашим проектом.",
       "libraryId": "Microsoft.Web.Infrastructure",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.2"
